@@ -1,5 +1,5 @@
 -- Group the orders by date and calculate the average number of pizzas ordered per day. --
-SELECT AVG(total_pizza_ordered) AS avg_pizza_per_day
+SELECT ROUND(AVG(total_pizza_ordered),0) AS avg_pizza_per_day
 FROM (
     SELECT 
         orders.order_date,
