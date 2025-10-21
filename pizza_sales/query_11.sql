@@ -1,3 +1,4 @@
+-- Calculate the percentage contribution of each pizza type to total revenue. -- 
 SELECT 
     pizza_types.category AS category,
     ROUND(SUM(order_details.quantity * pizzas.price) * 100.0 / (SELECT 
