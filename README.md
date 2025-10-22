@@ -69,7 +69,7 @@ I learned how to:
 **Aary Jadhav**  
 Data Analytics & AI/ML Enthusiast  
 
-🔗 [Connect with me on LinkedIn]((https://www.linkedin.com/in/aary-jadhav-700b21236/))  
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/aary-jadhav-700b21236/) 
 📧 *aary.jadhav18@gmail.com* 
 
 ---
